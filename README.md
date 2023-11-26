@@ -18,7 +18,7 @@ Welcome to the PDF AI Inquiry project! This Next.js (TypeScript) application emp
 
 ## Getting Started:
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone https://github.com/ikramdeveloper/nextjs-pdf-inquiry-project.git`
 2. Install dependencies: `npm install`
 3. Configure NeonDB and PineconeDB credentials.
 4. Set up your OpenAI API key.
