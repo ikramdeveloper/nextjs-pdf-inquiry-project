@@ -59,3 +59,15 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 This project is licensed under the [MIT License](LICENSE.md).
 
 Thank you for using the PDF AI Inquiry Project! If you have any questions or feedback, don't hesitate to reach out. Happy coding!
+
+## Author Links:
+
+👋 Hello, I'm Ikram Ul Haq - Web Developer & Programmer
+
+☕ [Buy Me A Coffee](https://www.buymeacoffee.com/ikramdeveloper)
+
+🚀 Follow Me:
+
+- [Twitter](https://twitter.com/ikramdeveloper)
+- [LinkedIn](https://www.linkedin.com/in/ikramdeveloper/)
+- [StackOverflow](https://stackoverflow.com/users/13859212/ikram-ul-haq)
